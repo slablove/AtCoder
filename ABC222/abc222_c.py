@@ -23,5 +23,5 @@ for i in range(m):
         
         db.sort()
 
-for i in range(2*n):
+for i in range(2*n): 
     print(db[i][1])
