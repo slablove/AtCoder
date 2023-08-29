@@ -1,2 +1,2 @@
-## AtCoder記録リポジトリ
+## atcoder
 解いてacしたabcの問題
